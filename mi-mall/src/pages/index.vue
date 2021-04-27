@@ -1,7 +1,10 @@
 <template>
     <div>
-        <nav-header></nav-header>
-        <router-view></router-view>
-        <nav-footer></nav-footer>
+        index123
     </div>
 </template>
+<script>
+    export default{
+        name: 'index'
+    }
+</script>
